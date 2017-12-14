@@ -10,6 +10,3 @@ def second_challenge
 arr = groceries.values
 arr[0].concat(arr[1]).concat(arr[2])
 end
-
-
-second_challenge
