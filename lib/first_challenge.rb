@@ -2,7 +2,7 @@ def first_challenge
   contacts = {
     "Jon Snow" => {
       name: "Jon",
-      email: "jon_snow@thewall.we", 
+      email: "jon_snow@thewall.we",
       favorite_icecream_flavors: ["chocolate", "vanilla", "mint chip"],
       knows: nil
     },
@@ -15,7 +15,7 @@ def first_challenge
 
   #your code here
  iceCream = contact["Freddy Mercury"][:"favorite_icecream_flavors"]
-incCream.delete("strawberry")  #remember to return your newly altered contacts hash!
+incCream.delete("strawberry")
+  #remember to return your newly altered contacts hash!
   contacts
 end
-
