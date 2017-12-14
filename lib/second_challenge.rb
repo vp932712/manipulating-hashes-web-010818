@@ -7,7 +7,6 @@ def second_challenge
   }
 
   #code your solution here!
-arr = groceries.values
-arr.split(" ")
-arr
+arr = groceries.values.concat
+
 end
