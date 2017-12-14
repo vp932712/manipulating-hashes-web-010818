@@ -14,9 +14,8 @@ def first_challenge
   }
 
   #your code here
-
-
-  #remember to return your newly altered contacts hash!
+ iceCream = contact["Freddy Mercury"][:"favorite_icecream_flavors"]
+incCream.delete("strawberry")  #remember to return your newly altered contacts hash!
   contacts
 end
 
