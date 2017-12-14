@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.values.split(" ")
-
-
+arr = groceries.values
+arr.split(" ")
+arr
 end
